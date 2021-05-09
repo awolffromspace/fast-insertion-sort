@@ -1,0 +1,475 @@
+array size: 4
+partially sorted: false
+merge sort: 0.062 microseconds
+heapsort: 0.037 microseconds
+quicksort: 0.034 microseconds
+fast insertion sort nested (h = 2): 0.235 microseconds
+fast insertion sort nested (h = 3): 0.226 microseconds
+fast insertion sort nested (h = 4): 0.234 microseconds
+fast insertion sort nested (h = 5): 0.213 microseconds
+fast insertion sort nested (h = 6): 0.208 microseconds
+fast insertion sort nested (h = 7): 0.225 microseconds
+fast insertion sort nested (h = 8): 0.277 microseconds
+fast insertion sort nested (h = 9): 0.219 microseconds
+fast insertion sort nested (h = 10): 0.214 microseconds
+fast insertion sort recursive (c = 2): 0.062 microseconds
+fast insertion sort recursive (c = 3): 0.036 microseconds
+fast insertion sort recursive (c = 4): 0.034 microseconds
+fast insertion sort recursive (c = 5): 0.058 microseconds
+fast insertion sort recursive (c = 6): 0.036 microseconds
+fast insertion sort recursive (c = 7): 0.038 microseconds
+fast insertion sort recursive (c = 8): 0.041 microseconds
+fast insertion sort recursive (c = 9): 0.037 microseconds
+fast insertion sort recursive (c = 10): 0.039 microseconds
+block insertion sort: 0.071 microseconds
+
+array size: 8
+partially sorted: false
+merge sort: 0.134 microseconds
+heapsort: 0.105 microseconds
+quicksort: 0.107 microseconds
+fast insertion sort nested (h = 2): 0.389 microseconds
+fast insertion sort nested (h = 3): 0.5 microseconds
+fast insertion sort nested (h = 4): 0.499 microseconds
+fast insertion sort nested (h = 5): 0.537 microseconds
+fast insertion sort nested (h = 6): 0.503 microseconds
+fast insertion sort nested (h = 7): 0.556 microseconds
+fast insertion sort nested (h = 8): 0.497 microseconds
+fast insertion sort nested (h = 9): 0.491 microseconds
+fast insertion sort nested (h = 10): 0.525 microseconds
+fast insertion sort recursive (c = 2): 0.085 microseconds
+fast insertion sort recursive (c = 3): 0.064 microseconds
+fast insertion sort recursive (c = 4): 0.083 microseconds
+fast insertion sort recursive (c = 5): 0.078 microseconds
+fast insertion sort recursive (c = 6): 0.069 microseconds
+fast insertion sort recursive (c = 7): 0.056 microseconds
+fast insertion sort recursive (c = 8): 0.146 microseconds
+fast insertion sort recursive (c = 9): 0.069 microseconds
+fast insertion sort recursive (c = 10): 0.066 microseconds
+block insertion sort: 0.13 microseconds
+
+array size: 16
+partially sorted: false
+merge sort: 0.339 microseconds
+heapsort: 0.26 microseconds
+quicksort: 0.233 microseconds
+fast insertion sort nested (h = 2): 0.686 microseconds
+fast insertion sort nested (h = 3): 0.972 microseconds
+fast insertion sort nested (h = 4): 1.094 microseconds
+fast insertion sort nested (h = 5): 1.202 microseconds
+fast insertion sort nested (h = 6): 1.139 microseconds
+fast insertion sort nested (h = 7): 1.158 microseconds
+fast insertion sort nested (h = 8): 1.182 microseconds
+fast insertion sort nested (h = 9): 1.141 microseconds
+fast insertion sort nested (h = 10): 1.138 microseconds
+fast insertion sort recursive (c = 2): 0.366 microseconds
+fast insertion sort recursive (c = 3): 0.172 microseconds
+fast insertion sort recursive (c = 4): 0.164 microseconds
+fast insertion sort recursive (c = 5): 0.166 microseconds
+fast insertion sort recursive (c = 6): 0.136 microseconds
+fast insertion sort recursive (c = 7): 0.139 microseconds
+fast insertion sort recursive (c = 8): 0.14 microseconds
+fast insertion sort recursive (c = 9): 0.165 microseconds
+fast insertion sort recursive (c = 10): 0.19 microseconds
+block insertion sort: 0.243 microseconds
+
+array size: 32
+partially sorted: false
+merge sort: 0.847 microseconds
+heapsort: 0.608 microseconds
+quicksort: 0.565 microseconds
+fast insertion sort nested (h = 2): 1.39 microseconds
+fast insertion sort nested (h = 3): 1.973 microseconds
+fast insertion sort nested (h = 4): 2.524 microseconds
+fast insertion sort nested (h = 5): 2.475 microseconds
+fast insertion sort nested (h = 6): 2.502 microseconds
+fast insertion sort nested (h = 7): 2.499 microseconds
+fast insertion sort nested (h = 8): 2.471 microseconds
+fast insertion sort nested (h = 9): 2.52 microseconds
+fast insertion sort nested (h = 10): 2.513 microseconds
+fast insertion sort recursive (c = 2): 1.094 microseconds
+fast insertion sort recursive (c = 3): 0.902 microseconds
+fast insertion sort recursive (c = 4): 0.4 microseconds
+fast insertion sort recursive (c = 5): 0.354 microseconds
+fast insertion sort recursive (c = 6): 0.299 microseconds
+fast insertion sort recursive (c = 7): 0.315 microseconds
+fast insertion sort recursive (c = 8): 0.318 microseconds
+fast insertion sort recursive (c = 9): 0.318 microseconds
+fast insertion sort recursive (c = 10): 0.288 microseconds
+block insertion sort: 0.564 microseconds
+
+array size: 64
+partially sorted: false
+merge sort: 1.925 microseconds
+heapsort: 1.447 microseconds
+quicksort: 1.342 microseconds
+fast insertion sort nested (h = 2): 2.509 microseconds
+fast insertion sort nested (h = 3): 3.272 microseconds
+fast insertion sort nested (h = 4): 4.718 microseconds
+fast insertion sort nested (h = 5): 6.024 microseconds
+fast insertion sort nested (h = 6): 7.731 microseconds
+fast insertion sort nested (h = 7): 8.131 microseconds
+fast insertion sort nested (h = 8): 7.338 microseconds
+fast insertion sort nested (h = 9): 7.626 microseconds
+fast insertion sort nested (h = 10): 7.821 microseconds
+fast insertion sort recursive (c = 2): 2.13 microseconds
+fast insertion sort recursive (c = 3): 1.405 microseconds
+fast insertion sort recursive (c = 4): 1.393 microseconds
+fast insertion sort recursive (c = 5): 1.39 microseconds
+fast insertion sort recursive (c = 6): 1.711 microseconds
+fast insertion sort recursive (c = 7): 1.385 microseconds
+fast insertion sort recursive (c = 8): 1.675 microseconds
+fast insertion sort recursive (c = 9): 0.904 microseconds
+fast insertion sort recursive (c = 10): 0.843 microseconds
+block insertion sort: 1.053 microseconds
+
+array size: 128
+partially sorted: false
+merge sort: 4.384 microseconds
+heapsort: 3.263 microseconds
+quicksort: 3.032 microseconds
+fast insertion sort nested (h = 2): 5.109 microseconds
+fast insertion sort nested (h = 3): 6.656 microseconds
+fast insertion sort nested (h = 4): 8.531 microseconds
+fast insertion sort nested (h = 5): 10.724 microseconds
+fast insertion sort nested (h = 6): 11.989 microseconds
+fast insertion sort nested (h = 7): 16.382 microseconds
+fast insertion sort nested (h = 8): 16.535 microseconds
+fast insertion sort nested (h = 9): 16.305 microseconds
+fast insertion sort nested (h = 10): 16.83 microseconds
+fast insertion sort recursive (c = 2): 5.261 microseconds
+fast insertion sort recursive (c = 3): 4.57 microseconds
+fast insertion sort recursive (c = 4): 2.781 microseconds
+fast insertion sort recursive (c = 5): 2.936 microseconds
+fast insertion sort recursive (c = 6): 3.349 microseconds
+fast insertion sort recursive (c = 7): 3.191 microseconds
+fast insertion sort recursive (c = 8): 2.958 microseconds
+fast insertion sort recursive (c = 9): 3.507 microseconds
+fast insertion sort recursive (c = 10): 3.243 microseconds
+block insertion sort: 2.276 microseconds
+
+array size: 256
+partially sorted: false
+merge sort: 9.563 microseconds
+heapsort: 7.191 microseconds
+quicksort: 6.946 microseconds
+fast insertion sort nested (h = 2): 10.437 microseconds
+fast insertion sort nested (h = 3): 12.773 microseconds
+fast insertion sort nested (h = 4): 14.977 microseconds
+fast insertion sort nested (h = 5): 17.998 microseconds
+fast insertion sort nested (h = 6): 23.383 microseconds
+fast insertion sort nested (h = 7): 25.133 microseconds
+fast insertion sort nested (h = 8): 34.148 microseconds
+fast insertion sort nested (h = 9): 35.635 microseconds
+fast insertion sort nested (h = 10): 34.313 microseconds
+fast insertion sort recursive (c = 2): 11.557 microseconds
+fast insertion sort recursive (c = 3): 11.444 microseconds
+fast insertion sort recursive (c = 4): 7.867 microseconds
+fast insertion sort recursive (c = 5): 10.012 microseconds
+fast insertion sort recursive (c = 6): 9.866 microseconds
+fast insertion sort recursive (c = 7): 6.082 microseconds
+fast insertion sort recursive (c = 8): 6.234 microseconds
+fast insertion sort recursive (c = 9): 6.23 microseconds
+fast insertion sort recursive (c = 10): 6.441 microseconds
+block insertion sort: 5.094 microseconds
+
+array size: 512
+partially sorted: false
+merge sort: 21.268 microseconds
+heapsort: 32.168 microseconds
+quicksort: 15.175 microseconds
+fast insertion sort nested (h = 2): 22.851 microseconds
+fast insertion sort nested (h = 3): 24.805 microseconds
+fast insertion sort nested (h = 4): 30.991 microseconds
+fast insertion sort nested (h = 5): 37.835 microseconds
+fast insertion sort nested (h = 6): 45.283 microseconds
+fast insertion sort nested (h = 7): 52.305 microseconds
+fast insertion sort nested (h = 8): 53.549 microseconds
+fast insertion sort nested (h = 9): 73.341 microseconds
+fast insertion sort nested (h = 10): 72.427 microseconds
+fast insertion sort recursive (c = 2): 26.487 microseconds
+fast insertion sort recursive (c = 3): 20.265 microseconds
+fast insertion sort recursive (c = 4): 15.484 microseconds
+fast insertion sort recursive (c = 5): 18.804 microseconds
+fast insertion sort recursive (c = 6): 18.599 microseconds
+fast insertion sort recursive (c = 7): 18.482 microseconds
+fast insertion sort recursive (c = 8): 18.646 microseconds
+fast insertion sort recursive (c = 9): 13.94 microseconds
+fast insertion sort recursive (c = 10): 13.899 microseconds
+block insertion sort: 12.08 microseconds
+
+array size: 1024
+partially sorted: false
+merge sort: 46.651 microseconds
+heapsort: 34.782 microseconds
+quicksort: 33.881 microseconds
+fast insertion sort nested (h = 2): 50.713 microseconds
+fast insertion sort nested (h = 3): 51.937 microseconds
+fast insertion sort nested (h = 4): 62.133 microseconds
+fast insertion sort nested (h = 5): 69.05 microseconds
+fast insertion sort nested (h = 6): 84.866 microseconds
+fast insertion sort nested (h = 7): 100.192 microseconds
+fast insertion sort nested (h = 8): 120.056 microseconds
+fast insertion sort nested (h = 9): 107.464 microseconds
+fast insertion sort nested (h = 10): 148.271 microseconds
+fast insertion sort recursive (c = 2): 61.656 microseconds
+fast insertion sort recursive (c = 3): 52.451 microseconds
+fast insertion sort recursive (c = 4): 40.009 microseconds
+fast insertion sort recursive (c = 5): 31.659 microseconds
+fast insertion sort recursive (c = 6): 38.406 microseconds
+fast insertion sort recursive (c = 7): 38.407 microseconds
+fast insertion sort recursive (c = 8): 40.065 microseconds
+fast insertion sort recursive (c = 9): 39.063 microseconds
+fast insertion sort recursive (c = 10): 37.703 microseconds
+block insertion sort: 27.899 microseconds
+
+array size: 2048
+partially sorted: false
+merge sort: 103.315 microseconds
+heapsort: 76.17 microseconds
+quicksort: 82.765 microseconds
+fast insertion sort nested (h = 2): 118.569 microseconds
+fast insertion sort nested (h = 3): 106.895 microseconds
+fast insertion sort nested (h = 4): 121.83 microseconds
+fast insertion sort nested (h = 5): 143.431 microseconds
+fast insertion sort nested (h = 6): 168.165 microseconds
+fast insertion sort nested (h = 7): 184.507 microseconds
+fast insertion sort nested (h = 8): 231.874 microseconds
+fast insertion sort nested (h = 9): 260.444 microseconds
+fast insertion sort nested (h = 10): 226.427 microseconds
+fast insertion sort recursive (c = 2): 134.685 microseconds
+fast insertion sort recursive (c = 3): 101.193 microseconds
+fast insertion sort recursive (c = 4): 82.28 microseconds
+fast insertion sort recursive (c = 5): 96.82 microseconds
+fast insertion sort recursive (c = 6): 96.842 microseconds
+fast insertion sort recursive (c = 7): 76.639 microseconds
+fast insertion sort recursive (c = 8): 76.304 microseconds
+fast insertion sort recursive (c = 9): 76.433 microseconds
+fast insertion sort recursive (c = 10): 77.888 microseconds
+block insertion sort: 69.46 microseconds
+
+array size: 4096
+partially sorted: false
+merge sort: 222.917 microseconds
+heapsort: 165.302 microseconds
+quicksort: 160.422 microseconds
+fast insertion sort nested (h = 2): 280.343 microseconds
+fast insertion sort nested (h = 3): 221.651 microseconds
+fast insertion sort nested (h = 4): 240.951 microseconds
+fast insertion sort nested (h = 5): 281.016 microseconds
+fast insertion sort nested (h = 6): 331.25 microseconds
+fast insertion sort nested (h = 7): 388.543 microseconds
+fast insertion sort nested (h = 8): 412.33 microseconds
+fast insertion sort nested (h = 9): 486.786 microseconds
+fast insertion sort nested (h = 10): 552.902 microseconds
+fast insertion sort recursive (c = 2): 289.722 microseconds
+fast insertion sort recursive (c = 3): 233.927 microseconds
+fast insertion sort recursive (c = 4): 158.639 microseconds
+fast insertion sort recursive (c = 5): 173.704 microseconds
+fast insertion sort recursive (c = 6): 190.625 microseconds
+fast insertion sort recursive (c = 7): 188.002 microseconds
+fast insertion sort recursive (c = 8): 187.628 microseconds
+fast insertion sort recursive (c = 9): 152.107 microseconds
+fast insertion sort recursive (c = 10): 150.904 microseconds
+block insertion sort: 171.045 microseconds
+
+array size: 8192
+partially sorted: false
+merge sort: 472.121 microseconds
+heapsort: 343.286 microseconds
+quicksort: 342.978 microseconds
+fast insertion sort nested (h = 2): 671.5 microseconds
+fast insertion sort nested (h = 3): 474.72 microseconds
+fast insertion sort nested (h = 4): 489.156 microseconds
+fast insertion sort nested (h = 5): 557.757 microseconds
+fast insertion sort nested (h = 6): 633.531 microseconds
+fast insertion sort nested (h = 7): 749.005 microseconds
+fast insertion sort nested (h = 8): 799.667 microseconds
+fast insertion sort nested (h = 9): 915.945 microseconds
+fast insertion sort nested (h = 10): 966.472 microseconds
+fast insertion sort recursive (c = 2): 639.615 microseconds
+fast insertion sort recursive (c = 3): 547.183 microseconds
+fast insertion sort recursive (c = 4): 377.029 microseconds
+fast insertion sort recursive (c = 5): 471.342 microseconds
+fast insertion sort recursive (c = 6): 469.371 microseconds
+fast insertion sort recursive (c = 7): 386.142 microseconds
+fast insertion sort recursive (c = 8): 374.392 microseconds
+fast insertion sort recursive (c = 9): 371.883 microseconds
+fast insertion sort recursive (c = 10): 333.579 microseconds
+block insertion sort: 450.856 microseconds
+
+array size: 16384
+partially sorted: false
+merge sort: 1008.75 microseconds
+heapsort: 770.937 microseconds
+quicksort: 728.099 microseconds
+fast insertion sort nested (h = 2): 1656.36 microseconds
+fast insertion sort nested (h = 3): 1020.16 microseconds
+fast insertion sort nested (h = 4): 1017.88 microseconds
+fast insertion sort nested (h = 5): 1105.68 microseconds
+fast insertion sort nested (h = 6): 1270.09 microseconds
+fast insertion sort nested (h = 7): 1460.22 microseconds
+fast insertion sort nested (h = 8): 1596.47 microseconds
+fast insertion sort nested (h = 9): 1683.43 microseconds
+fast insertion sort nested (h = 10): 1967.44 microseconds
+fast insertion sort recursive (c = 2): 1337.68 microseconds
+fast insertion sort recursive (c = 3): 985.832 microseconds
+fast insertion sort recursive (c = 4): 746.223 microseconds
+fast insertion sort recursive (c = 5): 787.192 microseconds
+fast insertion sort recursive (c = 6): 946.896 microseconds
+fast insertion sort recursive (c = 7): 787.359 microseconds
+fast insertion sort recursive (c = 8): 774.121 microseconds
+fast insertion sort recursive (c = 9): 777.546 microseconds
+fast insertion sort recursive (c = 10): 786.176 microseconds
+block insertion sort: 1173.87 microseconds
+
+array size: 32768
+partially sorted: false
+merge sort: 2164.97 microseconds
+heapsort: 1743.47 microseconds
+quicksort: 1558.65 microseconds
+fast insertion sort nested (h = 2): 4271.18 microseconds
+fast insertion sort nested (h = 3): 2244.8 microseconds
+fast insertion sort nested (h = 4): 2099.07 microseconds
+fast insertion sort nested (h = 5): 2206.85 microseconds
+fast insertion sort nested (h = 6): 2526.69 microseconds
+fast insertion sort nested (h = 7): 2867.72 microseconds
+fast insertion sort nested (h = 8): 3184.43 microseconds
+fast insertion sort nested (h = 9): 3527.9 microseconds
+fast insertion sort nested (h = 10): 3735.99 microseconds
+fast insertion sort recursive (c = 2): 2879.44 microseconds
+fast insertion sort recursive (c = 3): 2274.49 microseconds
+fast insertion sort recursive (c = 4): 1782.94 microseconds
+fast insertion sort recursive (c = 5): 1563.29 microseconds
+fast insertion sort recursive (c = 6): 1783.79 microseconds
+fast insertion sort recursive (c = 7): 1792.54 microseconds
+fast insertion sort recursive (c = 8): 1783.45 microseconds
+fast insertion sort recursive (c = 9): 1606.89 microseconds
+fast insertion sort recursive (c = 10): 1572.67 microseconds
+block insertion sort: 3112.84 microseconds
+
+array size: 65536
+partially sorted: false
+merge sort: 4590.24 microseconds
+heapsort: 3509.95 microseconds
+quicksort: 3267.15 microseconds
+fast insertion sort nested (h = 2): 10924.1 microseconds
+fast insertion sort nested (h = 3): 4976.29 microseconds
+fast insertion sort nested (h = 4): 4311.73 microseconds
+fast insertion sort nested (h = 5): 4629.29 microseconds
+fast insertion sort nested (h = 6): 5088.97 microseconds
+fast insertion sort nested (h = 7): 5463.98 microseconds
+fast insertion sort nested (h = 8): 6356.26 microseconds
+fast insertion sort nested (h = 9): 7049.91 microseconds
+fast insertion sort nested (h = 10): 7120.79 microseconds
+fast insertion sort recursive (c = 2): 6051.65 microseconds
+fast insertion sort recursive (c = 3): 5247.45 microseconds
+fast insertion sort recursive (c = 4): 3440.94 microseconds
+fast insertion sort recursive (c = 5): 4216.21 microseconds
+fast insertion sort recursive (c = 6): 4250.83 microseconds
+fast insertion sort recursive (c = 7): 3743.87 microseconds
+fast insertion sort recursive (c = 8): 3766.67 microseconds
+fast insertion sort recursive (c = 9): 3828.19 microseconds
+fast insertion sort recursive (c = 10): 3293.6 microseconds
+block insertion sort: 8443.38 microseconds
+
+array size: 131072
+partially sorted: false
+merge sort: 9708.78 microseconds
+heapsort: 8897.2 microseconds
+quicksort: 7056.99 microseconds
+fast insertion sort nested (h = 2): 29634.5 microseconds
+fast insertion sort nested (h = 3): 11334.2 microseconds
+fast insertion sort nested (h = 4): 9331.59 microseconds
+fast insertion sort nested (h = 5): 9513.09 microseconds
+fast insertion sort nested (h = 6): 10394 microseconds
+fast insertion sort nested (h = 7): 11582.3 microseconds
+fast insertion sort nested (h = 8): 12862.1 microseconds
+fast insertion sort nested (h = 9): 13575.8 microseconds
+fast insertion sort nested (h = 10): 15365.1 microseconds
+fast insertion sort recursive (c = 2): 12621.3 microseconds
+fast insertion sort recursive (c = 3): 10101.2 microseconds
+fast insertion sort recursive (c = 4): 7926.95 microseconds
+fast insertion sort recursive (c = 5): 7574.31 microseconds
+fast insertion sort recursive (c = 6): 8842.37 microseconds
+fast insertion sort recursive (c = 7): 8657.54 microseconds
+fast insertion sort recursive (c = 8): 7637.21 microseconds
+fast insertion sort recursive (c = 9): 7511.89 microseconds
+fast insertion sort recursive (c = 10): 7462.56 microseconds
+block insertion sort: 23230.1 microseconds
+
+array size: 262144
+partially sorted: false
+merge sort: 20464.3 microseconds
+heapsort: 17820.3 microseconds
+quicksort: 14649.1 microseconds
+fast insertion sort nested (h = 2): 79262.2 microseconds
+fast insertion sort nested (h = 3): 25343.2 microseconds
+fast insertion sort nested (h = 4): 19567.7 microseconds
+fast insertion sort nested (h = 5): 19461.4 microseconds
+fast insertion sort nested (h = 6): 20942.4 microseconds
+fast insertion sort nested (h = 7): 21971.6 microseconds
+fast insertion sort nested (h = 8): 24398.2 microseconds
+fast insertion sort nested (h = 9): 27212.2 microseconds
+fast insertion sort nested (h = 10): 29571.3 microseconds
+fast insertion sort recursive (c = 2): 27046.6 microseconds
+fast insertion sort recursive (c = 3): 21986.8 microseconds
+fast insertion sort recursive (c = 4): 15629.9 microseconds
+fast insertion sort recursive (c = 5): 14291.2 microseconds
+fast insertion sort recursive (c = 6): 17561.2 microseconds
+fast insertion sort recursive (c = 7): 17585.4 microseconds
+fast insertion sort recursive (c = 8): 15189.2 microseconds
+fast insertion sort recursive (c = 9): 15405.7 microseconds
+fast insertion sort recursive (c = 10): 15428.6 microseconds
+block insertion sort: 63143.7 microseconds
+
+array size: 524288
+partially sorted: false
+merge sort: 42618.6 microseconds
+heapsort: 41505.3 microseconds
+quicksort: 30688 microseconds
+fast insertion sort nested (h = 2): 217272 microseconds
+fast insertion sort nested (h = 3): 58895.7 microseconds
+fast insertion sort nested (h = 4): 41890 microseconds
+fast insertion sort nested (h = 5): 39520.3 microseconds
+fast insertion sort nested (h = 6): 41572.2 microseconds
+fast insertion sort nested (h = 7): 45435.7 microseconds
+fast insertion sort nested (h = 8): 50555.1 microseconds
+fast insertion sort nested (h = 9): 54744 microseconds
+fast insertion sort nested (h = 10): 58337.6 microseconds
+fast insertion sort recursive (c = 2): 57617.9 microseconds
+fast insertion sort recursive (c = 3): 42795.1 microseconds
+fast insertion sort recursive (c = 4): 35725.2 microseconds
+fast insertion sort recursive (c = 5): 32725.3 microseconds
+fast insertion sort recursive (c = 6): 37172 microseconds
+fast insertion sort recursive (c = 7): 34244 microseconds
+fast insertion sort recursive (c = 8): 34173.9 microseconds
+fast insertion sort recursive (c = 9): 31309.8 microseconds
+fast insertion sort recursive (c = 10): 31306.1 microseconds
+block insertion sort: 176386 microseconds
+
+array size: 1048576
+partially sorted: false
+merge sort: 90351.6 microseconds
+heapsort: 104020 microseconds
+quicksort: 64902.3 microseconds
+fast insertion sort nested (h = 2): 604332 microseconds
+fast insertion sort nested (h = 3): 138069 microseconds
+fast insertion sort nested (h = 4): 90480.3 microseconds
+fast insertion sort nested (h = 5): 82633.2 microseconds
+fast insertion sort nested (h = 6): 87706 microseconds
+fast insertion sort nested (h = 7): 92803 microseconds
+fast insertion sort nested (h = 8): 99233.9 microseconds
+fast insertion sort nested (h = 9): 107566 microseconds
+fast insertion sort nested (h = 10): 119043 microseconds
+fast insertion sort recursive (c = 2): 118312 microseconds
+fast insertion sort recursive (c = 3): 92379.3 microseconds
+fast insertion sort recursive (c = 4): 73898.4 microseconds
+fast insertion sort recursive (c = 5): 68027.9 microseconds
+fast insertion sort recursive (c = 6): 78000.8 microseconds
+fast insertion sort recursive (c = 7): 78020 microseconds
+fast insertion sort recursive (c = 8): 72468.7 microseconds
+fast insertion sort recursive (c = 9): 72560.4 microseconds
+fast insertion sort recursive (c = 10): 71883.3 microseconds
+block insertion sort: 491889 microseconds
+

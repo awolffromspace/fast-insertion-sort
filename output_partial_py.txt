@@ -1,0 +1,375 @@
+array size: 4
+partially sorted: True
+merge sort: 4.114601022592978e-06 seconds
+heapsort: 4.5447780248650815e-06
+quicksort: 3.733869016286917e-06 seconds
+fast insertion sort nested (h = 2): 1.1323263028316433e-05 seconds
+fast insertion sort nested (h = 3): 1.2390654039336368e-05 seconds
+fast insertion sort nested (h = 4): 1.2184962004539557e-05 seconds
+fast insertion sort nested (h = 5): 1.2129896083934e-05 seconds
+fast insertion sort nested (h = 6): 1.1946667978918413e-05 seconds
+fast insertion sort nested (h = 7): 1.2039124969305704e-05 seconds
+fast insertion sort nested (h = 8): 1.1959670984651894e-05 seconds
+fast insertion sort nested (h = 9): 1.201621697327937e-05 seconds
+fast insertion sort nested (h = 10): 1.1976853038504487e-05 seconds
+fast insertion sort recursive (c = 2): 3.761921001569135e-06 seconds
+fast insertion sort recursive (c = 3): 2.9212840054242405e-06 seconds
+fast insertion sort recursive (c = 4): 2.8666190555668438e-06 seconds
+fast insertion sort recursive (c = 5): 2.991543064126745e-06 seconds
+fast insertion sort recursive (c = 6): 2.9140679798729252e-06 seconds
+fast insertion sort recursive (c = 7): 2.884259993152227e-06 seconds
+fast insertion sort recursive (c = 8): 2.86640296690166e-06 seconds
+fast insertion sort recursive (c = 9): 2.838820008037146e-06 seconds
+fast insertion sort recursive (c = 10): 2.8666200269071852e-06 seconds
+block insertion sort: 5.920316008996452e-06 seconds
+
+array size: 8
+partially sorted: True
+merge sort: 8.905245002097217e-06 seconds
+heapsort: 8.544309937860817e-06
+quicksort: 7.170964981924044e-06 seconds
+fast insertion sort nested (h = 2): 1.7678688011073974e-05 seconds
+fast insertion sort nested (h = 3): 1.9354017025762003e-05 seconds
+fast insertion sort nested (h = 4): 1.9904631975805388e-05 seconds
+fast insertion sort nested (h = 5): 1.973364903096808e-05 seconds
+fast insertion sort nested (h = 6): 1.9515924894221827e-05 seconds
+fast insertion sort nested (h = 7): 1.986398703593295e-05 seconds
+fast insertion sort nested (h = 8): 1.9232616941735615e-05 seconds
+fast insertion sort nested (h = 9): 1.9237772979977307e-05 seconds
+fast insertion sort nested (h = 10): 1.9233818973589222e-05 seconds
+fast insertion sort recursive (c = 2): 4.726058035885217e-06 seconds
+fast insertion sort recursive (c = 3): 3.7931369952275416e-06 seconds
+fast insertion sort recursive (c = 4): 3.8218610498006454e-06 seconds
+fast insertion sort recursive (c = 5): 3.800936072366312e-06 seconds
+fast insertion sort recursive (c = 6): 3.8616550409642515e-06 seconds
+fast insertion sort recursive (c = 7): 3.92397697942215e-06 seconds
+fast insertion sort recursive (c = 8): 3.7560129239864182e-06 seconds
+fast insertion sort recursive (c = 9): 3.791057981288759e-06 seconds
+fast insertion sort recursive (c = 10): 3.80092406339827e-06 seconds
+block insertion sort: 8.782447064731968e-06 seconds
+
+array size: 16
+partially sorted: True
+merge sort: 1.7640814941842108e-05 seconds
+heapsort: 1.8026347013801567e-05
+quicksort: 1.5644031973351956e-05 seconds
+fast insertion sort nested (h = 2): 2.7152927999850362e-05 seconds
+fast insertion sort nested (h = 3): 3.6820911995164355e-05 seconds
+fast insertion sort nested (h = 4): 3.839774394509732e-05 seconds
+fast insertion sort nested (h = 5): 3.8898820930626245e-05 seconds
+fast insertion sort nested (h = 6): 3.8722869016055486e-05 seconds
+fast insertion sort nested (h = 7): 3.8669301957270364e-05 seconds
+fast insertion sort nested (h = 8): 3.877955996358651e-05 seconds
+fast insertion sort nested (h = 9): 3.866112600007909e-05 seconds
+fast insertion sort nested (h = 10): 3.88128889244399e-05 seconds
+fast insertion sort recursive (c = 2): 1.4477354096015915e-05 seconds
+fast insertion sort recursive (c = 3): 7.092590978572844e-06 seconds
+fast insertion sort recursive (c = 4): 7.139366985938977e-06 seconds
+fast insertion sort recursive (c = 5): 6.299213022430194e-06 seconds
+fast insertion sort recursive (c = 6): 6.2229800532804805e-06 seconds
+fast insertion sort recursive (c = 7): 6.192572989675682e-06 seconds
+fast insertion sort recursive (c = 8): 6.216229998244671e-06 seconds
+fast insertion sort recursive (c = 9): 6.255258012970444e-06 seconds
+fast insertion sort recursive (c = 10): 6.166991945065092e-06 seconds
+block insertion sort: 1.28105130570475e-05 seconds
+
+array size: 32
+partially sorted: True
+merge sort: 3.847420403326396e-05 seconds
+heapsort: 4.002762304298813e-05
+quicksort: 3.4010425981250594e-05 seconds
+fast insertion sort nested (h = 2): 4.893342994910199e-05 seconds
+fast insertion sort nested (h = 3): 6.180599895014893e-05 seconds
+fast insertion sort nested (h = 4): 7.406802298646653e-05 seconds
+fast insertion sort nested (h = 5): 7.734656500542769e-05 seconds
+fast insertion sort nested (h = 6): 7.740366205689497e-05 seconds
+fast insertion sort nested (h = 7): 7.93870899869944e-05 seconds
+fast insertion sort nested (h = 8): 7.730027209254332e-05 seconds
+fast insertion sort nested (h = 9): 7.860044603512505e-05 seconds
+fast insertion sort nested (h = 10): 7.855039002606645e-05 seconds
+fast insertion sort recursive (c = 2): 3.344919804294477e-05 seconds
+fast insertion sort recursive (c = 3): 2.570088096399559e-05 seconds
+fast insertion sort recursive (c = 4): 1.4924715003871824e-05 seconds
+fast insertion sort recursive (c = 5): 1.4672486078779911e-05 seconds
+fast insertion sort recursive (c = 6): 1.3879336042009527e-05 seconds
+fast insertion sort recursive (c = 7): 1.385289894460584e-05 seconds
+fast insertion sort recursive (c = 8): 1.4013426938618068e-05 seconds
+fast insertion sort recursive (c = 9): 1.4076698967983248e-05 seconds
+fast insertion sort recursive (c = 10): 1.4284892957221018e-05 seconds
+block insertion sort: 2.419340502092382e-05 seconds
+
+array size: 64
+partially sorted: True
+merge sort: 8.209282699991149e-05 seconds
+heapsort: 9.155469699997809e-05
+quicksort: 7.143110600007673e-05 seconds
+fast insertion sort nested (h = 2): 9.488106900016646e-05 seconds
+fast insertion sort nested (h = 3): 0.00012124200700016274 seconds
+fast insertion sort nested (h = 4): 0.00014415568100012877 seconds
+fast insertion sort nested (h = 5): 0.00016455350899994414 seconds
+fast insertion sort nested (h = 6): 0.00016102674300003627 seconds
+fast insertion sort nested (h = 7): 0.00016146955599991486 seconds
+fast insertion sort nested (h = 8): 0.00016116324100013912 seconds
+fast insertion sort nested (h = 9): 0.00016127722799973298 seconds
+fast insertion sort nested (h = 10): 0.00016088403799952288 seconds
+fast insertion sort recursive (c = 2): 7.664319500011629e-05 seconds
+fast insertion sort recursive (c = 3): 4.919537499976912e-05 seconds
+fast insertion sort recursive (c = 4): 4.868442400029949e-05 seconds
+fast insertion sort recursive (c = 5): 5.078966999985823e-05 seconds
+fast insertion sort recursive (c = 6): 5.081064399983859e-05 seconds
+fast insertion sort recursive (c = 7): 5.0169099999891384e-05 seconds
+fast insertion sort recursive (c = 8): 5.020572100015386e-05 seconds
+fast insertion sort recursive (c = 9): 4.085189599992134e-05 seconds
+fast insertion sort recursive (c = 10): 4.0793407000080604e-05 seconds
+block insertion sort: 5.701705100001675e-05 seconds
+
+array size: 128
+partially sorted: True
+merge sort: 0.00017959234700012418 seconds
+heapsort: 0.00021156764100052782
+quicksort: 0.00015535893200029703 seconds
+fast insertion sort nested (h = 2): 0.00020281379500028152 seconds
+fast insertion sort nested (h = 3): 0.0002284712609997257 seconds
+fast insertion sort nested (h = 4): 0.00028169391499992003 seconds
+fast insertion sort nested (h = 5): 0.00032052732399992577 seconds
+fast insertion sort nested (h = 6): 0.00033687590400060684 seconds
+fast insertion sort nested (h = 7): 0.00032676181500005443 seconds
+fast insertion sort nested (h = 8): 0.0003286502729998233 seconds
+fast insertion sort nested (h = 9): 0.00032811892000006535 seconds
+fast insertion sort nested (h = 10): 0.00032927220100023645 seconds
+fast insertion sort recursive (c = 2): 0.00015013722700021504 seconds
+fast insertion sort recursive (c = 3): 0.00012890203600002793 seconds
+fast insertion sort recursive (c = 4): 0.00010789313799887168 seconds
+fast insertion sort recursive (c = 5): 0.00010790984100003697 seconds
+fast insertion sort recursive (c = 6): 0.00011618799999968132 seconds
+fast insertion sort recursive (c = 7): 0.0001158592230000579 seconds
+fast insertion sort recursive (c = 8): 0.00011531276999954798 seconds
+fast insertion sort recursive (c = 9): 0.00011577501000019197 seconds
+fast insertion sort recursive (c = 10): 0.00011584847899982264 seconds
+block insertion sort: 0.00011090444199993499 seconds
+
+array size: 256
+partially sorted: True
+merge sort: 0.00039203743599830433 seconds
+heapsort: 0.0004885445490000393
+quicksort: 0.00032524794099879275 seconds
+fast insertion sort nested (h = 2): 0.00046246791300177394 seconds
+fast insertion sort nested (h = 3): 0.0004816766749980843 seconds
+fast insertion sort nested (h = 4): 0.0005549154729990278 seconds
+fast insertion sort nested (h = 5): 0.0006421689399979868 seconds
+fast insertion sort nested (h = 6): 0.0007142107219991658 seconds
+fast insertion sort nested (h = 7): 0.0007496135960019502 seconds
+fast insertion sort nested (h = 8): 0.000708437011997944 seconds
+fast insertion sort nested (h = 9): 0.0007070318820010471 seconds
+fast insertion sort nested (h = 10): 0.0007064643679987057 seconds
+fast insertion sort recursive (c = 2): 0.0003542797639992159 seconds
+fast insertion sort recursive (c = 3): 0.0003281255260012586 seconds
+fast insertion sort recursive (c = 4): 0.00026859056599982977 seconds
+fast insertion sort recursive (c = 5): 0.0003123990969972965 seconds
+fast insertion sort recursive (c = 6): 0.00031692423900165067 seconds
+fast insertion sort recursive (c = 7): 0.00029245633399955297 seconds
+fast insertion sort recursive (c = 8): 0.0002920943840017571 seconds
+fast insertion sort recursive (c = 9): 0.0002919584150004084 seconds
+fast insertion sort recursive (c = 10): 0.00029173224300063795 seconds
+block insertion sort: 0.0002853229580007337 seconds
+
+array size: 512
+partially sorted: True
+merge sort: 0.0008572042340022108 seconds
+heapsort: 0.0011102827960071408
+quicksort: 0.0007551677160045074 seconds
+fast insertion sort nested (h = 2): 0.0012472911680001743 seconds
+fast insertion sort nested (h = 3): 0.0011196732540047379 seconds
+fast insertion sort nested (h = 4): 0.0011882834640014152 seconds
+fast insertion sort nested (h = 5): 0.0013522614079990944 seconds
+fast insertion sort nested (h = 6): 0.0014647399420020975 seconds
+fast insertion sort nested (h = 7): 0.0015971795740008475 seconds
+fast insertion sort nested (h = 8): 0.0017290366309987348 seconds
+fast insertion sort nested (h = 9): 0.001613387266999098 seconds
+fast insertion sort nested (h = 10): 0.0016216485739996643 seconds
+fast insertion sort recursive (c = 2): 0.0008994349760027944 seconds
+fast insertion sort recursive (c = 3): 0.000731602884999802 seconds
+fast insertion sort recursive (c = 4): 0.0006605222580028567 seconds
+fast insertion sort recursive (c = 5): 0.0007743724380038657 seconds
+fast insertion sort recursive (c = 6): 0.0007893612840002788 seconds
+fast insertion sort recursive (c = 7): 0.0007749188810028044 seconds
+fast insertion sort recursive (c = 8): 0.0007781992289990285 seconds
+fast insertion sort recursive (c = 9): 0.0008994542700002057 seconds
+fast insertion sort recursive (c = 10): 0.0008946525459975873 seconds
+block insertion sort: 0.0008890266930022789 seconds
+
+array size: 1024
+partially sorted: True
+merge sort: 0.0017515647169939258 seconds
+heapsort: 0.002494619880003938
+quicksort: 0.001729860598999494 seconds
+fast insertion sort nested (h = 2): 0.0033137704879964078 seconds
+fast insertion sort nested (h = 3): 0.0025767367809926326 seconds
+fast insertion sort nested (h = 4): 0.0025431614120097947 seconds
+fast insertion sort nested (h = 5): 0.0027386926160147596 seconds
+fast insertion sort nested (h = 6): 0.003187713759006783 seconds
+fast insertion sort nested (h = 7): 0.0033298462229940924 seconds
+fast insertion sort nested (h = 8): 0.0034637161260020546 seconds
+fast insertion sort nested (h = 9): 0.0037180298299949754 seconds
+fast insertion sort nested (h = 10): 0.003531203885006107 seconds
+fast insertion sort recursive (c = 2): 0.002117845338997995 seconds
+fast insertion sort recursive (c = 3): 0.0019069277730054638 seconds
+fast insertion sort recursive (c = 4): 0.001595931043006658 seconds
+fast insertion sort recursive (c = 5): 0.0016337683459942127 seconds
+fast insertion sort recursive (c = 6): 0.0019051221150075434 seconds
+fast insertion sort recursive (c = 7): 0.0019043619470116937 seconds
+fast insertion sort recursive (c = 8): 0.0019123976599989875 seconds
+fast insertion sort recursive (c = 9): 0.0019001270880135053 seconds
+fast insertion sort recursive (c = 10): 0.0019015282389977983 seconds
+block insertion sort: 0.002573145461000422 seconds
+
+array size: 2048
+partially sorted: True
+merge sort: 0.0037009858759975032 seconds
+heapsort: 0.005548559159983597
+quicksort: 0.003899800129977848 seconds
+fast insertion sort nested (h = 2): 0.009288369673996386 seconds
+fast insertion sort nested (h = 3): 0.006003051729000617 seconds
+fast insertion sort nested (h = 4): 0.005525996593000855 seconds
+fast insertion sort nested (h = 5): 0.005789696849001302 seconds
+fast insertion sort nested (h = 6): 0.00632643969700257 seconds
+fast insertion sort nested (h = 7): 0.006664067366014933 seconds
+fast insertion sort nested (h = 8): 0.00730228319298385 seconds
+fast insertion sort nested (h = 9): 0.007691930902002241 seconds
+fast insertion sort nested (h = 10): 0.008206916125002862 seconds
+fast insertion sort recursive (c = 2): 0.00515620531400873 seconds
+fast insertion sort recursive (c = 3): 0.00399438611099049 seconds
+fast insertion sort recursive (c = 4): 0.003786953611008357 seconds
+fast insertion sort recursive (c = 5): 0.004166631018987573 seconds
+fast insertion sort recursive (c = 6): 0.00414770953801235 seconds
+fast insertion sort recursive (c = 7): 0.0046293187619821765 seconds
+fast insertion sort recursive (c = 8): 0.004615458057994147 seconds
+fast insertion sort recursive (c = 9): 0.004624363729002653 seconds
+fast insertion sort recursive (c = 10): 0.004620590975022424 seconds
+block insertion sort: 0.007759703327030365 seconds
+
+array size: 4096
+partially sorted: True
+merge sort: 0.007960632660980991 seconds
+heapsort: 0.012457490632996268
+quicksort: 0.008628987241998402 seconds
+fast insertion sort nested (h = 2): 0.02560495796703799 seconds
+fast insertion sort nested (h = 3): 0.014461037364979347 seconds
+fast insertion sort nested (h = 4): 0.012387336392042926 seconds
+fast insertion sort nested (h = 5): 0.013005724667016693 seconds
+fast insertion sort nested (h = 6): 0.012940979152030196 seconds
+fast insertion sort nested (h = 7): 0.01480224537203685 seconds
+fast insertion sort nested (h = 8): 0.015050278978995265 seconds
+fast insertion sort nested (h = 9): 0.016593344787012028 seconds
+fast insertion sort nested (h = 10): 0.01734279556399997 seconds
+fast insertion sort recursive (c = 2): 0.011919965439035878 seconds
+fast insertion sort recursive (c = 3): 0.00981081470402387 seconds
+fast insertion sort recursive (c = 4): 0.008333734456969978 seconds
+fast insertion sort recursive (c = 5): 0.009086524324973652 seconds
+fast insertion sort recursive (c = 6): 0.00967042190400025 seconds
+fast insertion sort recursive (c = 7): 0.009697207328033983 seconds
+fast insertion sort recursive (c = 8): 0.00981980781702805 seconds
+fast insertion sort recursive (c = 9): 0.011788285211046969 seconds
+fast insertion sort recursive (c = 10): 0.01178911872901881 seconds
+block insertion sort: 0.022422323014998257 seconds
+
+array size: 8192
+partially sorted: True
+merge sort: 0.017094824217996574 seconds
+heapsort: 0.027195081614028824
+quicksort: 0.018514170208989527 seconds
+fast insertion sort nested (h = 2): 0.07092434902597233 seconds
+fast insertion sort nested (h = 3): 0.0344350460139849 seconds
+fast insertion sort nested (h = 4): 0.027489507514994328 seconds
+fast insertion sort nested (h = 5): 0.027729359262997605 seconds
+fast insertion sort nested (h = 6): 0.027863881945990217 seconds
+fast insertion sort nested (h = 7): 0.029512319547970036 seconds
+fast insertion sort nested (h = 8): 0.03259377672299888 seconds
+fast insertion sort nested (h = 9): 0.03284767757402915 seconds
+fast insertion sort nested (h = 10): 0.03498558671998216 seconds
+fast insertion sort recursive (c = 2): 0.025765101621998836 seconds
+fast insertion sort recursive (c = 3): 0.023063945410995074 seconds
+fast insertion sort recursive (c = 4): 0.0194045796819737 seconds
+fast insertion sort recursive (c = 5): 0.02217815028599034 seconds
+fast insertion sort recursive (c = 6): 0.02218772534400887 seconds
+fast insertion sort recursive (c = 7): 0.022148660409993682 seconds
+fast insertion sort recursive (c = 8): 0.022304869460009286 seconds
+fast insertion sort recursive (c = 9): 0.02234233977003714 seconds
+fast insertion sort recursive (c = 10): 0.029028207806022693 seconds
+block insertion sort: 0.06424269608802023 seconds
+
+array size: 16384
+partially sorted: True
+merge sort: 0.036075162196993915 seconds
+heapsort: 0.05869537697203123
+quicksort: 0.04004688470298788 seconds
+fast insertion sort nested (h = 2): 0.19860072661202866 seconds
+fast insertion sort nested (h = 3): 0.08313948439601518 seconds
+fast insertion sort nested (h = 4): 0.06320403669992083 seconds
+fast insertion sort nested (h = 5): 0.05608060226196176 seconds
+fast insertion sort nested (h = 6): 0.06123186560398608 seconds
+fast insertion sort nested (h = 7): 0.061679258453994405 seconds
+fast insertion sort nested (h = 8): 0.06671471551895956 seconds
+fast insertion sort nested (h = 9): 0.06579730136202488 seconds
+fast insertion sort nested (h = 10): 0.07182052384097187 seconds
+fast insertion sort recursive (c = 2): 0.056505222090032475 seconds
+fast insertion sort recursive (c = 3): 0.04573304926898709 seconds
+fast insertion sort recursive (c = 4): 0.044397201037998456 seconds
+fast insertion sort recursive (c = 5): 0.0472639755209857 seconds
+fast insertion sort recursive (c = 6): 0.04607897337004397 seconds
+fast insertion sort recursive (c = 7): 0.0526990705899334 seconds
+fast insertion sort recursive (c = 8): 0.05261912866099374 seconds
+fast insertion sort recursive (c = 9): 0.05247212754598877 seconds
+fast insertion sort recursive (c = 10): 0.05253943321498809 seconds
+block insertion sort: 0.18381563598800493 seconds
+
+array size: 32768
+partially sorted: True
+merge sort: 0.07649410902497039 seconds
+heapsort: 0.1270181453690093
+quicksort: 0.08667260440100653 seconds
+fast insertion sort nested (h = 2): 0.5555350292139738 seconds
+fast insertion sort nested (h = 3): 0.20243748748803772 seconds
+fast insertion sort nested (h = 4): 0.1397088869429572 seconds
+fast insertion sort nested (h = 5): 0.12422113395801353 seconds
+fast insertion sort nested (h = 6): 0.12378880190302516 seconds
+fast insertion sort nested (h = 7): 0.12921976979794636 seconds
+fast insertion sort nested (h = 8): 0.13157074469899088 seconds
+fast insertion sort nested (h = 9): 0.1476732282149569 seconds
+fast insertion sort nested (h = 10): 0.14386110259804263 seconds
+fast insertion sort recursive (c = 2): 0.12198587204088107 seconds
+fast insertion sort recursive (c = 3): 0.10607559993701579 seconds
+fast insertion sort recursive (c = 4): 0.09467393162108419 seconds
+fast insertion sort recursive (c = 5): 0.0949473566489869 seconds
+fast insertion sort recursive (c = 6): 0.10252978025103585 seconds
+fast insertion sort recursive (c = 7): 0.10205515916197691 seconds
+fast insertion sort recursive (c = 8): 0.10430006266806595 seconds
+fast insertion sort recursive (c = 9): 0.12147952677695503 seconds
+fast insertion sort recursive (c = 10): 0.12179700854603652 seconds
+block insertion sort: 0.5272264497119977 seconds
+
+array size: 65536
+partially sorted: True
+merge sort: 0.16513452800689266 seconds
+heapsort: 0.2759948740470063
+quicksort: 0.18731941339800687 seconds
+fast insertion sort nested (h = 2): 1.575408853409921 seconds
+fast insertion sort nested (h = 3): 0.5063347837712209 seconds
+fast insertion sort nested (h = 4): 0.3236208235220838 seconds
+fast insertion sort nested (h = 5): 0.2859249001539938 seconds
+fast insertion sort nested (h = 6): 0.2740940488489141 seconds
+fast insertion sort nested (h = 7): 0.2583471908970314 seconds
+fast insertion sort nested (h = 8): 0.27696650495513314 seconds
+fast insertion sort nested (h = 9): 0.2987961221060759 seconds
+fast insertion sort nested (h = 10): 0.32913683531899735 seconds
+fast insertion sort recursive (c = 2): 0.2607045527409209 seconds
+fast insertion sort recursive (c = 3): 0.24582626391609666 seconds
+fast insertion sort recursive (c = 4): 0.20709518903495336 seconds
+fast insertion sort recursive (c = 5): 0.2238758341240391 seconds
+fast insertion sort recursive (c = 6): 0.2248093207970378 seconds
+fast insertion sort recursive (c = 7): 0.24259530095211085 seconds
+fast insertion sort recursive (c = 8): 0.2423913487601385 seconds
+fast insertion sort recursive (c = 9): 0.24225119704596 seconds
+fast insertion sort recursive (c = 10): 0.2780831977640264 seconds
+block insertion sort: 1.5199571437080013 seconds
+
